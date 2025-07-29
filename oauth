@@ -1,0 +1,11 @@
+<!-- /oauth/callback.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Discord OAuth Redirect</title>
+  <meta http-equiv="refresh" content="0;url=https://discord.com">
+</head>
+<body>
+  <p>Redirecting back to Discord...</p>
+</body>
+</html>
